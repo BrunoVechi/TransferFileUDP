@@ -1,0 +1,4 @@
+C:\Users\bruno.vechi\Desktop\appsettings.Development.json
+C:\Users\bruno.vechi\Desktop\appsettings.json
+C:\Users\bruno.vechi\Desktop\WorkerService.pdb
+C:\Users\bruno.vechi\Desktop\WorkerService.exe
